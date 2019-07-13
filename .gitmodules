@@ -1,0 +1,3 @@
+[submodule "cocos_common"]
+	path = cocos_common
+	url = https://github.com/myskull/cocos_common.git
